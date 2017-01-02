@@ -44,7 +44,8 @@ GEM
       sass (~> 3.4.20)
 
 PLATFORMS
-  ruby (2.2.6)
+  ruby
+  unknown
 
 DEPENDENCIES
   jekyll (~> 3.3.0)
@@ -53,4 +54,4 @@ DEPENDENCIES
   scss_lint (~> 0.50.2)
 
 BUNDLED WITH
-   1.13.2
+   1.13.7
