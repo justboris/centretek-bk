@@ -44,7 +44,7 @@ GEM
       sass (~> 3.4.20)
 
 PLATFORMS
-  ruby (~> 2.0.0)
+  ruby (2.2.6)
 
 DEPENDENCIES
   jekyll (~> 3.3.0)
